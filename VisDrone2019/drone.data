@@ -1,0 +1,7 @@
+classes=10
+train = VisDrone2019/drone/train.lists
+valid = VisDrone2019/drone/val.lists
+labels = VisDrone2019/drone/labels.txt
+names = VisDrone2019/drone/labels.txt
+backup = backup_drone/
+eval=coco
