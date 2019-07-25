@@ -25,20 +25,20 @@ Drones or general Unmanned Aerial Vehicles (UAVs), endowed with computer vision 
 ![img](./procedure.jpg)
 
 
-### Normal Training
+### 1. Normal Training
 
     ./darknet/darknet detector train VisDrone2019/drone.data  cfg/yolov3-spp3.cfg darknet53.conv.74.weights
 
-### Sparsity Training
+### 2. Sparsity Training
 
     python yolov3/train_drone.py --cfg VisDrone2019/yolov3-spp3.cfg --data-cfg VisDrone2019/drone.data -sr --s 0.0001 --alpha 1.0
 
-### Channel Prunning
+### 3. Channel Prunning
 
     python yolov3/prune.py --cfg VisDrone2019/yolov3-spp3.cfg --data-cfg VisDrone2019/drone.data --weights yolov3-spp3_sparsity.weights --overall_ratio 0.5 --perlayer_ratio 0.1
 
 
-### Fine-tuning
+### 4. Fine-tuning
 
     ./darknet/darknet detector train VisDrone2019/drone.data  cfg/prune_0.5.cfg weights/prune_0.5/prune.weights
 
@@ -47,7 +47,7 @@ Drones or general Unmanned Aerial Vehicles (UAVs), endowed with computer vision 
 
 ### Pretrained models
 
-#### baseline models
+#### 1. baseline models
 
 (1) [yolov3-tiny_final.weights](https://drive.google.com/open?id=1Wf-vczUgdA-LrqYQE23k5jtOGkX_Hwzd)
 
@@ -58,7 +58,7 @@ Drones or general Unmanned Aerial Vehicles (UAVs), endowed with computer vision 
 (4) [yolov3-spp3_final.weights](https://drive.google.com/open?id=1A7ow3WdVhUBW5Ai9mf2mvU5Xfqn1FnI2)
 
 
-#### iter1-pruning
+#### 2. iter1-pruning
 
 (1) [prune_0.5_final.weights](https://drive.google.com/open?id=1mLthX9kf1KPAw3Yv3qxUH2Qo6vuEO4PZ)
 
@@ -67,7 +67,7 @@ Drones or general Unmanned Aerial Vehicles (UAVs), endowed with computer vision 
 (3) [prune_0.95_final.weights](https://drive.google.com/open?id=1qY2Rp7BO33A046iOLGfu6Sdij5oKBAoY)
 
 
-#### iter2-pruning
+#### 3. iter2-pruning
 
 (1) [prune_0.5_0.5_final.weights](https://drive.google.com/open?id=1q0xUniQFycnggDAiolQtlDFt-_VEZlQg)
 
