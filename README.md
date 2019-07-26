@@ -1,6 +1,6 @@
 # SlimYOLOv3: Narrower, Faster and Better for UAV Real-Time Applications
 
-This page is for the [paper]()
+This page is for the [SlimYOLOv3: Narrower, Faster and Better for UAV Real-Time Applications](http://arxiv.org/abs/1907.11093)
 
 
 ![img](./table.jpg)
@@ -91,5 +91,13 @@ Drones or general Unmanned Aerial Vehicles (UAVs), endowed with computer vision 
 If you find this code or dataset useful for your research, please cite our paper:
 
 ```
+@article{
+  author    = {Pengyi Zhang, Yunxin Zhong, Xiaoqiong Li},
+  title     = {SlimYOLOv3: Narrower, Faster and Better for Real-Time UAV Applications},
+  journal   = {CoRR},
+  volume    = {abs/1907.11093},
+  year      = {2019},
+  ee        = {https://arxiv.org/abs/1907.11093}
+}
 
 ```
