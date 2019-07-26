@@ -71,7 +71,7 @@ Drones or general Unmanned Aerial Vehicles (UAVs), endowed with computer vision 
 
 (1) [prune_0.5_0.5_final.weights](https://drive.google.com/open?id=1q0xUniQFycnggDAiolQtlDFt-_VEZlQg)
 
-#### iter3-pruning
+#### 4. iter3-pruning
 
 (1) [prune_0.5_0.5_0.7_final.weights](https://drive.google.com/open?id=1NRchetH5RaiPY0KSfAaDIy6t4DvnAVXr)
 
@@ -88,7 +88,7 @@ Drones or general Unmanned Aerial Vehicles (UAVs), endowed with computer vision 
 
 ## Citation
 
-If you find this code or dataset useful for your research, please cite our paper:
+If you find this code useful for your research, please cite our paper:
 
 ```
 @article{
