@@ -15,6 +15,11 @@ Drones or general Unmanned Aerial Vehicles (UAVs), endowed with computer vision 
 
 ## Demo
 
+<video id="video" controls="" preload="none" poster="results/result.jpg">
+<source id="mp4" src="results/demo.mp4" type="video/mp4">
+</video>
+
+
 [demo.mp4](results/demo.mp4)
 
 
