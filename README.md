@@ -20,8 +20,6 @@ Drones or general Unmanned Aerial Vehicles (UAVs), endowed with computer vision 
 </video>
 
 
-[demo.mp4](results/demo.mp4)
-
 
 ## Requirements
 
