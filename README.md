@@ -53,54 +53,6 @@ Drones or general Unmanned Aerial Vehicles (UAVs), endowed with computer vision 
 
 ### Pretrained models
 
-#### 1. baseline models
-
-(1) GoogleDrive [yolov3-tiny_final.weights]
-
-BaiduDisk [yolov3-tiny_final.weights] 
-
-(2) [yolov3_final.weights]
-
-BaiduDisk [yolov3_final.weights]
-
-(3) [yolov3-spp1_final.weights]
-
-BaiduDisk [yolov3-spp1_final.weights]
-
-(4) [yolov3-spp3_final.weights]
-
-BaiduDisk [yolov3-spp3_final.weights]
-
-
-#### 2. iter1-pruning
-
-(1) [prune_0.5_final.weights]
-
-BaiduDisk [prune_0.5_final.weights]
-
-
-
-(2) [prune_0.9_final.weights]
-
-BaiduDisk [prune_0.9_final.weights]
-
-(3) [prune_0.95_final.weights]
-
-BaiduDisk [prune_0.95_final.weights]
-
-
-#### 3. iter2-pruning
-
-(1) [prune_0.5_0.5_final.weights]
-
-
-BaiduDisk [prune_0.5_0.5_final.weights]
-
-#### 4. iter3-pruning
-
-(1) [prune_0.5_0.5_0.7_final.weights]
-
-BaiduDisk [prune_0.5_0.5_0.7_final.weights]
 
 ### Use darknet for evaluation
 
