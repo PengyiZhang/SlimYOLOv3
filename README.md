@@ -55,53 +55,52 @@ Drones or general Unmanned Aerial Vehicles (UAVs), endowed with computer vision 
 
 #### 1. baseline models
 
-(1) GoogleDrive [yolov3-tiny_final.weights](https://drive.google.com/open?id=1Wf-vczUgdA-LrqYQE23k5jtOGkX_Hwzd) 
+(1) GoogleDrive [yolov3-tiny_final.weights]
 
-BaiduDisk [yolov3-tiny_final.weights](https://pan.baidu.com/s/11wbny1d7dXpCW2gb0VwQkA)(8hu4) 
+BaiduDisk [yolov3-tiny_final.weights] 
 
-(2) [yolov3_final.weights](https://drive.google.com/open?id=1zmbQDverpFYm2D_timtNmmMEIlZUxIMd)
+(2) [yolov3_final.weights]
 
-BaiduDisk [yolov3_final.weights](https://pan.baidu.com/s/1J7_IJy5xKnUkRyemz8X9Yg)(kamf)
+BaiduDisk [yolov3_final.weights]
 
-(3) [yolov3-spp1_final.weights](https://drive.google.com/open?id=1ocImqkS5HgckHQHTfCQAPr0WzZb6V68J)
+(3) [yolov3-spp1_final.weights]
 
-BaiduDisk [yolov3-spp1_final.weights](https://pan.baidu.com/s/17qLPzopTgziVDmDDsohO2w)(9e6z)
+BaiduDisk [yolov3-spp1_final.weights]
 
-(4) [yolov3-spp3_final.weights](https://drive.google.com/open?id=1A7ow3WdVhUBW5Ai9mf2mvU5Xfqn1FnI2)
+(4) [yolov3-spp3_final.weights]
 
-BaiduDisk [yolov3-spp3_final.weights](https://pan.baidu.com/s/1uoEwttBmD2a_L3LAui0SyA)(5s7s)
-
+BaiduDisk [yolov3-spp3_final.weights]
 
 
 #### 2. iter1-pruning
 
-(1) [prune_0.5_final.weights](https://drive.google.com/open?id=1mLthX9kf1KPAw3Yv3qxUH2Qo6vuEO4PZ)
+(1) [prune_0.5_final.weights]
 
-BaiduDisk [prune_0.5_final.weights](https://pan.baidu.com/s/1Ed7_LptMsWgjKVTuPgvKmg)(eqgh)
+BaiduDisk [prune_0.5_final.weights]
 
 
 
-(2) [prune_0.9_final.weights](https://drive.google.com/open?id=1FYgCxlvFsu_eFzA8xB4V4da1qwmhFkKH)
+(2) [prune_0.9_final.weights]
 
-BaiduDisk [prune_0.9_final.weights](https://pan.baidu.com/s/1IAkqs7WB1m-8RfmF9wCIEA)(ysx9)
+BaiduDisk [prune_0.9_final.weights]
 
-(3) [prune_0.95_final.weights](https://drive.google.com/open?id=1qY2Rp7BO33A046iOLGfu6Sdij5oKBAoY)
+(3) [prune_0.95_final.weights]
 
-BaiduDisk [prune_0.95_final.weights](https://pan.baidu.com/s/1MnQPGv_MAuzqL5G-Saw2Fw)(1gmn)
+BaiduDisk [prune_0.95_final.weights]
 
 
 #### 3. iter2-pruning
 
-(1) [prune_0.5_0.5_final.weights](https://drive.google.com/open?id=1q0xUniQFycnggDAiolQtlDFt-_VEZlQg)
+(1) [prune_0.5_0.5_final.weights]
 
 
-BaiduDisk [prune_0.5_0.5_final.weights](https://pan.baidu.com/s/1arKqSBFx1ib9jQtfzGnoRg)(7sea)
+BaiduDisk [prune_0.5_0.5_final.weights]
 
 #### 4. iter3-pruning
 
-(1) [prune_0.5_0.5_0.7_final.weights](https://drive.google.com/open?id=1NRchetH5RaiPY0KSfAaDIy6t4DvnAVXr)
+(1) [prune_0.5_0.5_0.7_final.weights]
 
-BaiduDisk [prune_0.5_0.5_0.7_final.weights](https://pan.baidu.com/s/1h8SQUf-iJE8tQaSuiUmLfg)(g8ku)
+BaiduDisk [prune_0.5_0.5_0.7_final.weights]
 
 ### Use darknet for evaluation
 
